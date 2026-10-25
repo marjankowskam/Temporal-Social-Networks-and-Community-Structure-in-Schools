@@ -10,7 +10,7 @@ The analysis compares first- and fifth-grade classes using contact-duration dist
 
 The project examines how time aggregation and the choice of observation window affect conclusions about social networks. Exploratory findings suggest more mixing and less sharply separated communities among younger children, with conclusions limited by the small sample and short observation period.
 
-Completed for UCL’s *COMP0123: Complex Networks and Online Social Networks* module.
+Completed for UCL’s *COMP0123: Complex Networks and Online Social Networks* module. Details in the `Report.pdf` file.
 
 **Topics:** temporal networks, social network analysis, network science, complex networks, community detection, Louvain algorithm, modularity, contact networks, SocioPatterns, computational social science.
 
